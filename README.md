@@ -35,8 +35,8 @@ This project allows users to search and summarize information from various data 
 
 ## Usage
 
-1. **Run the Jupyter Notebook:**
-    Open `RAG_implementation_Gemini.ipynb` in Jupyter Notebook or Jupyter Lab.
+1. **Upload and Run the Jupyter Notebook on Google COlab:**
+    Open `RAG_implementation_Gemini.ipynb` in Colab.
 
 2. **Configure API Key:**
     Ensure you have your Google API key set up:
